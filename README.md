@@ -1,1 +1,1 @@
-# ZipText--A-Summarization-App
+# ZipText--A-Text-Summarization-App
